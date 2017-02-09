@@ -1,3 +1,6 @@
+
+REFLECTIONS
+
 How did viewing a diff between two versions of a file help you see the bug that was introduced?
 It made easier to stop key part of the document, and made trivial to find the typo.
 
